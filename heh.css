@@ -1,0 +1,172 @@
+body {
+  background-color: #F6F6F6;
+margin: 0;
+text-align: center;
+}
+
+h1 {
+  font-family: 'Lobster Two', cursive;
+  font-size: 90px;
+}
+
+h2 {
+ font-family: 'Righteous', cursive;
+ font-size: 32px;
+ color: #02475E;
+}
+
+h3 {
+ font-family: 'Staatliches', cursive;
+ color: #CA8A8B;
+}
+
+h4 {
+   font-family: 'Staatliches', cursive;
+}
+
+hr {
+  border: dotted lightgrey 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 26px;
+  color: #687980;
+}
+
+a {
+  color: #11999e;
+  font-family: 'Barlow Condensed', sans-serif;
+  margin: 10px 20px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightgrey;
+}
+.span {
+  background-color: orchid;
+  display: inline-block;
+  padding: 5px 10px 5px 5px;
+}
+
+.a {
+  background-color: #F1E9E5;
+  height: 500px;
+  width: 100%;
+  padding: 100px 0;
+  position: relative;
+}
+
+.b {
+text-align: center;
+margin: 100px auto auto auto;
+font-size: 30px;
+}
+
+.c {
+  text-align: center;
+}
+
+.sparkle {
+  width: 10%;
+  position:absolute;
+  left: 50px;
+}
+
+.birds {
+  width: 10%;
+  position: absolute;
+  left: 80%;
+  bottom: 200px;
+}
+
+.forest {
+  width: 10%;
+  position: absolute;
+  top: 530px;
+  right: 700px;
+}
+
+
+.btn {
+ -webkit-border-radius: 8;
+ -moz-border-radius: 8;
+ border-radius: 8px;
+font-family: 'Chakra Petch', sans-serif;
+ color: #ffffff;
+ font-size: 20px;
+ background: #000000;
+ padding: 10px 20px 10px 20px;
+ text-decoration: none;
+}
+
+.btn:hover {
+ background: #570606;
+ text-decoration: none;
+}
+
+.your{
+  text-decoration: line-through;
+}
+
+.skill-row {
+  width: 30%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.falcon {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.bottom {
+  background-color: #D4B499;
+  padding: 50px 20px;
+}
+
+.footer-link {
+  color: #F3D5C0;
+}
+
+.con {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.nocopy {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.tree {
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  padding-left: 30px;
+}
+.um {
+  font-size: 40px;
+}
+
+.contact-me {
+  margin-bottom: 100px;
+}
+
+.harbour {
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  padding-right: 30px;
+}
+
+.baby {
+  color: #02475E;
+}
